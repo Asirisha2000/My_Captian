@@ -1,0 +1,74 @@
+.head{
+	position: absolute;
+	color:red;
+	right: 200px;
+	left: 200px;
+}
+.logo{
+	position:relative	
+	height: 80px;
+	width: 100px;
+	border: 5px black;
+	border-radius: 50px;
+}
+.logo{
+	position: absolute;
+	right:600px; 
+	top: 5px;
+}
+.firstname{
+	color: white;	
+}
+.lastname{
+	color: white;
+}
+.emailid{
+	color: white;
+}
+.contactnumber{
+	color: white;
+}
+.companyname{
+	color: white;
+}
+.Address{
+	color: white;
+}
+.surveyquestions{
+	color: white;
+	position: absolute;
+	right: 400px;
+}
+.Reset{
+	color: red;
+	position: absolute;
+	left: 20px;
+}
+.submit{
+	color: red;
+	position: absolute;
+	left: 120px;
+}
+.h2{
+color:red;
+}
+.text{
+	position: absolute;
+	left: 50px;
+	right: 50px;
+	color: white;
+}
+.feedback{
+	position: absolute;
+	left: 30px;
+	top: 800px;
+	color: red;
+}
+.copyrights2020{
+	position: absolute;
+	left: 450px;
+	top: 850px;
+	color: red;
+}
+
+
