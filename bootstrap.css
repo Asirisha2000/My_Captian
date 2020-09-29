@@ -1,0 +1,21 @@
+#Services_offered{
+	margin-top: 10px;
+}
+h1{
+	color: blue;
+}
+footer{
+	background-color: black;
+	color: #FFFFFF;
+
+}
+footer{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.footer-link{
+	color: #FFFFFF;
+}
+.footer-link:hover{
+	color: #FFFFFF;
+}
